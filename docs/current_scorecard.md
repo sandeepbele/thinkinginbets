@@ -1,6 +1,6 @@
 # Current Scorecard
 
-> Historical research snapshot from June 2026. These replay results come from a small selected match sample and paper-fill assumptions; they are not prospective trading results.
+> Historical research snapshot from June 2026. These replay results come from a small selected match sample and paper-fill assumptions; they are not prospective trading results. The replay aligns ESPN play timestamps with Kalshi candles without measuring when ESPN updates became available, so delayed reporting could make some simulated decisions look earlier than they were possible live.
 
 Baseline command:
 
